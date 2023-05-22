@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><effect name="Distort/Tile" enabled="1"><row><field id="scale" value="79"/></row><row><field id="centerx" value="0"/><field id="centery" value="0"/></row><row><field id="mirrorx" value="1"/></row><row><field id="mirrory" value="1"/></row></effect>
